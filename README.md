@@ -8,13 +8,11 @@ The primary objective of this project is to analyze the sales data from a coffee
 This project involves a comprehensive analysis of the coffee shop's sales data to uncover valuable insights. The analysis focuses on sales trends over different time periods, variations across store locations, product performance, and customer purchasing behavior. Key metrics such as total sales revenue, order quantity, average price per order, and sales distribution by product category are examined to provide a detailed understanding of the business's performance.
 
 ## Presentation:
-
 - _[Presentation](https://github.com/amoghsawant17/Excel-Coffee_Sales_Analysis/blob/main/coffee_shop_sales_c.pdf)_
-- _[Presentation]()_
 
 ## Dashboard
 <p align="center">
-    <img src="" width="600">
+    <img src="https://github.com/amoghsawant17/Excel-Coffee_Sales_Analysis/blob/main/dashboard.png" width="600">
 </p> 
  
 
