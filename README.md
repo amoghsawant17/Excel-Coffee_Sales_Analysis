@@ -10,7 +10,12 @@ This project involves a comprehensive analysis of the coffee shop's sales data t
 ## Presentation:
 
 - _[Presentation](https://github.com/amoghsawant17/Excel-Coffee_Sales_Analysis/blob/main/coffee_shop_sales_c.pdf)_
-- _[Presentation]()_ 
+- _[Presentation]()_
+
+## Dashboard
+<p align="center">
+    <img src="" width="600">
+</p> 
  
 
 
