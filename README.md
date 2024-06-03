@@ -9,7 +9,9 @@ This project involves a comprehensive analysis of the coffee shop's sales data t
 
 ## Presentation:
 
-- _[customer performance report](https://github.com/amoghsawant17/Excel-Sales_Finance_Analytics/blob/main/Sales%20Reports/Customer_Performance_Report.pdf)_ 
+- _[Presentation](https://github.com/amoghsawant17/Excel-Coffee_Sales_Analysis/blob/main/coffee_shop_sales_c.pdf)_
+- _[Presentation]()_ 
+ 
 
 
 ## Key Insights and Strategic Decisions
